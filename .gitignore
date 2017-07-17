@@ -1,4 +1,4 @@
 Vagrantfile
 .idea
 .DS_Store
-
+.vagrant
